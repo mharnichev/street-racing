@@ -1,2 +1,2 @@
-# street-racing
-It`s a game. I created it with native JS. 2019 
+# StreetRasing_nativejs
+Create a simple game with nativeJS
